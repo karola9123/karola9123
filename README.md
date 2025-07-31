@@ -10,4 +10,4 @@ I'm transitioning into the world of data analytics from a creative background in
 🛠 Tools & Skills:
 `SQL` | `Excel` | `Power BI` | `GA4` | `Canva` | `GitHub`
 
-📫 How to reach me: Write me on [Linkedin]https://www.linkedin.com/in/karolina-g%C3%B3rska-079110235/
+📫 How to reach me: Write me on [Linkedin](https://www.linkedin.com/in/karolina-g%C3%B3rska-079110235/)
