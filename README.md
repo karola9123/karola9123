@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Karolina!
 
-<!--
-**karola9123/karola9123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning into the world of data analytics from a creative background in video editing and post-production. I’m currently focused on building my skills in **SQL**, **Excel** and **Power BI** – and I love discovering insights through real datasets.
 
-Here are some ideas to get you started:
+🔍 I’m especially interested in:
+- Turning raw data into actionable insights
+- Telling clear and compelling stories with data
+- Visualizing findings using dashboards and reports
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tools & Skills:
+`SQL` | `Excel` | `Power BI` | `GA4` | `Canva` | `GitHub`
+
+📫 How to reach me: Write me on [Linkedin]https://www.linkedin.com/in/karolina-g%C3%B3rska-079110235/
