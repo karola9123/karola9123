@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karolina!
 
-I'm transitioning into the world of data analytics from a creative background in video editing and post-production. I’m currently focused on building my skills in **SQL**, **Excel** and **Power BI** – and I love discovering insights through real datasets.
+I'm transitioning into the world of data analytics from a creative background. I’m currently focused on building my skills in **SQL**, **Excel** and **Power BI** – and I love discovering insights through real datasets.
 
 🔍 I’m especially interested in:
 - Turning raw data into actionable insights
